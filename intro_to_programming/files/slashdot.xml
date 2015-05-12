@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, DHI Group Inc. All Rights Reserved. Slashdot is a DHI service</dc:rights>
+<dc:date>2015-05-11T23:39:09+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/11/2118210/the-milky-ways-most-recent-supernova-that-nobody-saw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/05/11/2220249/white-house-names-ed-felten-as-deputy-us-chief-technology-officer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/11/2058223/worker-fired-for-disabling-gps-app-that-tracked-her-24-hours-a-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/11/1955233/world-health-organization-has-new-rules-for-avoiding-offensive-names?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/11/1938213/apollo-15-commander-talks-about-developing-and-driving-lunar-buggy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/11/1754239/philippines-gives-uber-its-first-legal-framework-to-operate-in-asia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://features.slashdot.org/story/15/05/11/1430223/interviews-fark-founder-drew-curtis-answers-your-questions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/11/1746257/google-shuts-down-map-maker-following-hacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/05/11/1616220/the-best-paying-it-security-jobs-of-2015?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/11/1559257/the-worlds-most-dangerous-driving-simulator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/11/1555219/windows-10-the-last-version-of-windows-not-so-fast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/story/15/05/11/1421207/ask-slashdot-whats-the-future-of-desktop-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/05/11/1414213/psychologist-porn-and-video-game-addiction-are-leading-to-masculinity-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/05/11/1358217/breaking-bad-crypto-ransomware-targets-australian-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/11/1310255/self-driving-cars-in-california-4-out-of-48-have-accidents-none-their-fault?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://science.slashdot.org/story/15/05/11/2118210/the-milky-ways-most-recent-supernova-that-nobody-saw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Milky Way's Most Recent Supernova That Nobody Saw</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/EtzwO1r3Dso/the-milky-ways-most-recent-supernova-that-nobody-saw</link>
+<description>StartsWithABang writes: A little over 300 years ago, a supernova &amp;mdash; a dying, ultramassive star &amp;mdash; exploded, giving rise to such a luminous explosion that it might have shone as bright as our entire galaxy. And nobody on Earth saw it. Located in the plane of our Milky Way galaxy, the light was obscured, but thanks to a suite of great, space-based observatories (Hubble, Spitzer, and Chandra), we've been able to piece together exactly what occurred. Not only that, but observations of a light-echo, or reflected light off of the nearby gas, has allowed us to see the light from this explosion centuries later, and learn exactly how it happened.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Milky+Way's+Most+Recent+Supernova+That+Nobody+Saw%3A+http%3A%2F%2Fbit.ly%2F1cr3UfH"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F11%2F2118210%2Fthe-milky-ways-most-recent-supernova-that-nobody-saw%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/11/2118210/the-milky-ways-most-recent-supernova-that-nobody-saw?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/11/2118210/the-milky-ways-most-recent-supernova-that-nobody-saw?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7401313&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/EtzwO1r3Dso" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-11T23:20:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>didn't-see-it</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>6</slash:comments>
+<slash:hit_parade>6,6,4,3,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/11/2118210/the-milky-ways-most-recent-supernova-that-nobody-saw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/05/11/2220249/white-house-names-ed-felten-as-deputy-us-chief-technology-officer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>White House Names Ed Felten As Deputy U.S. Chief Technology Officer</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Cmgh0Tanc_s/white-house-names-ed-felten-as-deputy-us-chief-technology-officer</link>
+<description>New submitter bird writes: Ed Felton, Director of Princeton University's Center for Information Technology Policy (CITP) and well-known and outspoken consumer advocate, has been appointed deputy US chief technology officer. His is a voice of reason that needs to be heard when tech policy is made. The press release says: "We are excited to announce that Dr. Ed Felten is joining the White House Office of Science and Technology Policy as Deputy U.S. Chief Technology Officer. Ed joins a growing number of techies at the White House working to further President Obama&amp;rsquo;s vision to ensure policy decisions are informed by our best understanding of state-of-the-art technology and innovation, to quickly and efficiently deliver great services for the American people, and to broaden and deepen the American people&amp;rsquo;s engagement with their government."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=White+House+Names+Ed+Felten+As+Deputy+U.S.+Chief+Technology+Officer%3A+http%3A%2F%2Fbit.ly%2F1PeU4zh"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F05%2F11%2F2220249%2Fwhite-house-names-ed-felten-as-deputy-us-chief-technology-officer%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/05/11/2220249/white-house-names-ed-felten-as-deputy-us-chief-technology-officer?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/05/11/2220249/white-house-names-ed-felten-as-deputy-us-chief-technology-officer?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7401469&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Cmgh0Tanc_s" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-11T22:36:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>putting-a-team-together</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>8</slash:comments>
+<slash:hit_parade>8,8,5,5,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/05/11/2220249/white-house-names-ed-felten-as-deputy-us-chief-technology-officer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/11/2058223/worker-fired-for-disabling-gps-app-that-tracked-her-24-hours-a-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Worker Fired For Disabling GPS App That Tracked Her 24 Hours a Day</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MgvkNaK0FiQ/worker-fired-for-disabling-gps-app-that-tracked-her-24-hours-a-day</link>
+<description>An anonymous reader writes: Myrna Arias claims she was fired for refusing to run an app that would track her location even when she was off the clock. She is now suing Intermex Wire Transfer LLC in a Kern County Superior Court. Her claim reads in part: "After researching the app and speaking with a trainer from Xora, Plaintiff and her co-workers asked whether Intermex would be monitoring their movements while off duty. Stubits admitted that employees would be monitored while off duty and bragged that he knew how fast she was driving at specific moments ever since she installed the app on her phone. Plaintiff expressed that she had no problem with the app's GPS function during work hours, but she objected to the monitoring of her location during non-work hours and complained to Stubits that this was an invasion of her privacy. She likened the app to a prisoner's ankle bracelet and informed Stubits that his actions were illegal. Stubits replied that she should tolerate the illegal intrusion...."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Worker+Fired+For+Disabling+GPS+App+That+Tracked+Her+24+Hours+a+Day%3A+http%3A%2F%2Fbit.ly%2F1Fguq8w"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F11%2F2058223%2Fworker-fired-for-disabling-gps-app-that-tracked-her-24-hours-a-day%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/11/2058223/worker-fired-for-disabling-gps-app-that-tracked-her-24-hours-a-day?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/11/2058223/worker-fired-for-disabling-gps-app-that-tracked-her-24-hours-a-day?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7401243&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MgvkNaK0FiQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-11T21:52:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>keeping-tabs-on-you</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>165</slash:comments>
+<slash:hit_parade>165,161,113,90,27,18,12</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/11/2058223/worker-fired-for-disabling-gps-app-that-tracked-her-24-hours-a-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/11/1955233/world-health-organization-has-new-rules-for-avoiding-offensive-names?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>World Health Organization Has New Rules For Avoiding Offensive Names</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2O04plP0o7o/world-health-organization-has-new-rules-for-avoiding-offensive-names</link>
+<description>sciencehabit writes: Last week The World Health Organization (WHO) decided to address not only the physical toll of disease but the stigma inflicted by diseases named for people, places, and animals as well. Among the existing names that its new guidelines "for the Naming of New Human Infectious Diseases" would discourage: Ebola, swine flu, Rift valley Fever, Creutzfeldt-Jakob disease, and monkey pox. The organization suggests researchers, health officials, and journalists should use more neutral, generic terms, such as severe respiratory disease or novel neurologic syndrome instead. &amp;ldquo;It will certainly lead to boring names and a lot of confusion,&amp;rdquo; predicts Linfa Wang, an expert on emerging infectious diseases at the Australian Animal Health Laboratory in Geelong. &amp;ldquo;You should not take political correctness so far that in the end no one is able to distinguish these diseases,&amp;rdquo; says Christian Drosten, a virologist at the University of Bonn, Germany.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=World+Health+Organization+Has+New+Rules+For+Avoiding+Offensive+Names%3A+http%3A%2F%2Fbit.ly%2F1EucXDY"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F11%2F1955233%2Fworld-health-organization-has-new-rules-for-avoiding-offensive-names%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/11/1955233/world-health-organization-has-new-rules-for-avoiding-offensive-names?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/11/1955233/world-health-organization-has-new-rules-for-avoiding-offensive-names?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7401051&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/2O04plP0o7o" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-11T21:08:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>a-pustule-by-any-other-name</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>91</slash:comments>
+<slash:hit_parade>91,90,57,47,10,5,2</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/11/1955233/world-health-organization-has-new-rules-for-avoiding-offensive-names?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/11/1938213/apollo-15-commander-talks-about-developing-and-driving-lunar-buggy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apollo 15 Commander Talks About Developing and Driving Lunar Buggy</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/f82ye7EM-hM/apollo-15-commander-talks-about-developing-and-driving-lunar-buggy</link>
+<description>szczys writes: Greg Charvat recently sat in on an MIT course called "Engineering Apollo". For this set of sessions, David Scott recounted his experience as an astronaut. David was the commander of the Apollo 15 mission, flew several others, and took part in the development of much of the equipment used in the moon missions. The class is basically him hanging around with a bunch of engineers talking in a level of detail rarely heard. From the Hackaday article: "As if you had any doubts, but David confirms the lunar rover was really fun to drive. The vehicle had a wide wheel base, a low center of gravity, and each wheel had its own motor. But there was one occasion that caused a stir when the rover nearly slid down a mountain."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apollo+15+Commander+Talks+About+Developing+and+Driving+Lunar+Buggy%3A+http%3A%2F%2Fbit.ly%2F1Fgi6Fs"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F11%2F1938213%2Fapollo-15-commander-talks-about-developing-and-driving-lunar-buggy%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/11/1938213/apollo-15-commander-talks-about-developing-and-driving-lunar-buggy?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/11/1938213/apollo-15-commander-talks-about-developing-and-driving-lunar-buggy?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7401009&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/f82ye7EM-hM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-11T20:25:00+00:00</dc:date>
+<dc:subject>nasa</dc:subject>
+<slash:department>more-fun-than-moon-patrol</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>23</slash:comments>
+<slash:hit_parade>23,23,14,10,4,1,1</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/11/1938213/apollo-15-commander-talks-about-developing-and-driving-lunar-buggy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/11/1754239/philippines-gives-uber-its-first-legal-framework-to-operate-in-asia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Philippines Gives Uber Its First Legal Framework To Operate In Asia</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FwkV6yHl92s/philippines-gives-uber-its-first-legal-framework-to-operate-in-asia</link>
+<description>An anonymous reader writes: The Philippines has given Uber a rare boost in its hard-fought Asian territories, by granting new legislation that provides rules within which it may legally operate. To this end the country's Department of Transportation and Communications has created a new category of ride called the Transportation Network Vehicle Service (TNVS) classification &amp;mdash; whilst at the same time mollifying beleaguered indigenous taxi-services by creating an equivalent classification for an app-hailed taxi able to accept credit cards. As with all its other negotiations in Asia, the fruits of Uber's consultation with the Philippine government was prefaced by unorganized invasion, trade complaints, bans and general conflict.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Philippines+Gives+Uber+Its+First+Legal+Framework+To+Operate+In+Asia%3A+http%3A%2F%2Fbit.ly%2F1cquEwH"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F11%2F1754239%2Fphilippines-gives-uber-its-first-legal-framework-to-operate-in-asia%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/11/1754239/philippines-gives-uber-its-first-legal-framework-to-operate-in-asia?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/11/1754239/philippines-gives-uber-its-first-legal-framework-to-operate-in-asia?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7400691&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FwkV6yHl92s" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-11T19:41:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>new-rules</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>16</slash:comments>
+<slash:hit_parade>16,16,11,7,3,1,1</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/11/1754239/philippines-gives-uber-its-first-legal-framework-to-operate-in-asia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://features.slashdot.org/story/15/05/11/1430223/interviews-fark-founder-drew-curtis-answers-your-questions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Interviews: Fark Founder Drew Curtis Answers Your Questions</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DtivcJnbXI8/interviews-fark-founder-drew-curtis-answers-your-questions</link>
+<description>A week ago you had the chance to ask Fark Founder Drew Curtis about wasting hours at work reading stories about Florida, and his Kentucky gubernatorial campaign. We'll be checking back with Drew as the race proceeds, but for now you can read his answers to your questions below.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Interviews%3A+Fark+Founder+Drew+Curtis+Answers+Your+Questions%3A+http%3A%2F%2Fbit.ly%2F1PCop5J"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ffeatures.slashdot.org%2Fstory%2F15%2F05%2F11%2F1430223%2Finterviews-fark-founder-drew-curtis-answers-your-questions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://features.slashdot.org/story/15/05/11/1430223/interviews-fark-founder-drew-curtis-answers-your-questions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://features.slashdot.org/story/15/05/11/1430223/interviews-fark-founder-drew-curtis-answers-your-questions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7399899&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DtivcJnbXI8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-11T18:57:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>listen-up</slash:department>
+<slash:section>features</slash:section>
+<slash:comments>26</slash:comments>
+<slash:hit_parade>26,26,15,12,4,0,0</slash:hit_parade>
+<feedburner:origLink>http://features.slashdot.org/story/15/05/11/1430223/interviews-fark-founder-drew-curtis-answers-your-questions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/11/1746257/google-shuts-down-map-maker-following-hacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Shuts Down Map Maker Following Hacks</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ShGqPpWKLnE/google-shuts-down-map-maker-following-hacks</link>
+<description>Errorcod3 writes: Google has temporarily shut down Map Maker while it works on a way to stop people from inserting pranks into its maps. A statement from Google explains that the service isn't going away, just shutting down while a new moderation system is worked on. "Given the current state of the system, we have come to the conclusion that it is not fair to any of our users to let them continue to spend time editing. Every edit you make is essentially going to a backlog that is growing very fast," Google's Pavithra Kanakarajan wrote. "We believe that it is more fair to only say that if we do not have the capacity to review edits at roughly the rate they come in, we have to take a pause. We have hence decided to temporarily disable editing across all countries starting Tuesday, May 12, 2015, till we have our moderation system back in action."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Shuts+Down+Map+Maker+Following+Hacks%3A+http%3A%2F%2Fbit.ly%2F1PeftbV"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F11%2F1746257%2Fgoogle-shuts-down-map-maker-following-hacks%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/11/1746257/google-shuts-down-map-maker-following-hacks?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/11/1746257/google-shuts-down-map-maker-following-hacks?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7400643&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ShGqPpWKLnE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-11T18:13:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>shutting-it-down</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,29,24,16,11,9,5</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/11/1746257/google-shuts-down-map-maker-following-hacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/05/11/1616220/the-best-paying-it-security-jobs-of-2015?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Best-Paying IT Security Jobs of 2015</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PBe1AZ_RWiA/the-best-paying-it-security-jobs-of-2015</link>
+<description>Nerval's Lobster writes: It's no secret that tech pros with extensive IT security backgrounds are in high demand, especially in the wake of last year's high-profile hacks of major companies such as Sony and Home Depot. Which security-related job pays the most? According to a new analysis of Dice salary data, a lead software security engineer can expect to earn an average of $233,333 in 2015, followed by a director of security, who can expect to earn $200,000. Nor are those outliers: Chief information security officers, directors of information security, and IT security consultants can all expect to earn close to $200,000, if not more. While many subfields of IT security prove quite lucrative, there are also other jobs that earn below the average for tech pros. Security analysts will make an average of $59,880 this year, for instance, while security installation technicians&amp;mdash;because somebody needs to install the cameras and sensors&amp;mdash;can expect to earn $31,680. Compare that to the average tech-pro salary of $89,450 in 2014, which is only expected to rise this year. According to a 2014 report from Global Knowledge and Penton, those armed with certifications such as CRISC, CISM, and CISA can expect to earn a healthy six figures a year.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Best-Paying+IT+Security+Jobs+of+2015%3A+http%3A%2F%2Fbit.ly%2F1G05LDW"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F05%2F11%2F1616220%2Fthe-best-paying-it-security-jobs-of-2015%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/05/11/1616220/the-best-paying-it-security-jobs-of-2015?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/05/11/1616220/the-best-paying-it-security-jobs-of-2015?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7400239&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PBe1AZ_RWiA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-11T17:29:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>squeaky-wheel-gets-the-green</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>75</slash:comments>
+<slash:hit_parade>75,75,42,39,12,6,4</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/05/11/1616220/the-best-paying-it-security-jobs-of-2015?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/11/1559257/the-worlds-most-dangerous-driving-simulator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The World's Most Dangerous Driving Simulator</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xjhVw_Gc4ZA/the-worlds-most-dangerous-driving-simulator</link>
+<description>agent elevator writes: Lawrence Ulrich at IEEE Spectrum has an interview with the maker of a simulator for professional racers. The Motion Pro II from CXC Simulations costs racers $54,000 and up. It conveys amazingly fine sensations, including the feel of the car's tires wearing out or the car lightening as its fuel dwindles. It also has the kick to make you really feel a crash: "If you hit the wall in an Indy Car and don't take your hands off the wheel, you'll break your wrists. Our wheel is a one-to-one replication of that, but we don't turn it up that high. It's the first time we've been able to replicate racing forces so high that it introduces liability questions."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+World's+Most+Dangerous+Driving+Simulator%3A+http%3A%2F%2Fbit.ly%2F1E2bLX5"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F11%2F1559257%2Fthe-worlds-most-dangerous-driving-simulator%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/11/1559257/the-worlds-most-dangerous-driving-simulator?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/11/1559257/the-worlds-most-dangerous-driving-simulator?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7400187&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xjhVw_Gc4ZA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-11T16:46:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>welcome-to-the-carbon-monoxide-simulator-X-2</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>70</slash:comments>
+<slash:hit_parade>70,69,45,38,14,7,4</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/11/1559257/the-worlds-most-dangerous-driving-simulator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/11/1555219/windows-10-the-last-version-of-windows-not-so-fast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Windows 10 the Last Version of Windows? Not So Fast.</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UHU0947VfdU/windows-10-the-last-version-of-windows-not-so-fast</link>
+<description>A multitude of tech sites are breathlessly reporting that Windows 10 will be the last version of Windows. These claims are based on a brief comment from developer evangelist Jerry Nixon while speaking a Microsoft Ignite session on "Tiles, Notifications, and Action Center." However, as Paul Thurrott points out, you probably shouldn't take this news too seriously. Windows development has been changing for the past several years. At the very least, we've known since we learned Windows 8 would be developed for multiple form factors. We've known it specifically about Windows 10 since it was announced &amp;mdash; Microsoft has talked about transitioning away from giant, monolithic updates. Thurrott says,
+The reason anyone is talking like this is that Microsoft is pushing a "Windows as a service" vision, which doesn't mean "subscription service" but rather that it plans to upgrade Windows 10 going forward with both functional and security updates, plus of course bug fixes. You know, just like it's done with every single version of Windows. Ever. ... In other words, nothing to see here. Beyond the usual: things change. If it makes sense to keep updating Windows 10 and not change the brand or version number, Microsoft will do that. If it makes sense to release something called Windows 10 R2, Windows 11, or Windows Yoghurt &amp;mdash; seriously, who cares? &amp;mdash; then they'll do that.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Windows+10+the+Last+Version+of+Windows%3F+Not+So+Fast.%3A+http%3A%2F%2Fbit.ly%2F1Pe2yql"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F11%2F1555219%2Fwindows-10-the-last-version-of-windows-not-so-fast%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/11/1555219/windows-10-the-last-version-of-windows-not-so-fast?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/11/1555219/windows-10-the-last-version-of-windows-not-so-fast?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7400173&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/UHU0947VfdU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-11T16:05:00+00:00</dc:date>
+<dc:subject>windows</dc:subject>
+<slash:department>branding-is-the-devil</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>105</slash:comments>
+<slash:hit_parade>105,101,70,60,25,12,8</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/11/1555219/windows-10-the-last-version-of-windows-not-so-fast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://ask.slashdot.org/story/15/05/11/1421207/ask-slashdot-whats-the-future-of-desktop-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: What's the Future of Desktop Applications?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/TdpFAOG8pIk/ask-slashdot-whats-the-future-of-desktop-applications</link>
+<description>MrNaz writes: Over the last fifteen years or so, we have seen the dynamic web mature rapidly. The functionality of dynamic web sites has expanded from the mere display of dynamic information to fully fledged applications rivaling the functionality and aesthetics of desktop applications. Google Docs, MS Office 365, and Pixlr Express provide in-browser functionality that, in bygone years, was the preserve of desktop software. The rapid deployment of high speed internet access, fiber to the home, cable and other last-mile technologies, even in developing nations, means that the problem of needing offline access to functionality is becoming more and more a moot point. It is also rapidly doing away with the problem of lengthy load times for bulky web code. My question: Is this trend a progression to the ultimate conclusion where the browser becomes the operating system and our physical hardware becomes little more than a web appliance? Or is there an upper limit: will there always be a place where desktop applications are more appropriate than applications delivered in a browser? If so, where does this limit lie? What factors should software vendors take into consideration when deciding whether to build new functionality on the web or into desktop applications?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+What's+the+Future+of+Desktop+Applications%3F%3A+http%3A%2F%2Fbit.ly%2F1JBWkto"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fask.slashdot.org%2Fstory%2F15%2F05%2F11%2F1421207%2Fask-slashdot-whats-the-future-of-desktop-applications%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://ask.slashdot.org/story/15/05/11/1421207/ask-slashdot-whats-the-future-of-desktop-applications?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://ask.slashdot.org/story/15/05/11/1421207/ask-slashdot-whats-the-future-of-desktop-applications?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7399875&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/TdpFAOG8pIk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-11T15:23:00+00:00</dc:date>
+<dc:subject>software</dc:subject>
+<slash:department>software-becomes-softwhere</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>219</slash:comments>
+<slash:hit_parade>219,217,170,145,49,20,14</slash:hit_parade>
+<feedburner:origLink>http://ask.slashdot.org/story/15/05/11/1421207/ask-slashdot-whats-the-future-of-desktop-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/05/11/1414213/psychologist-porn-and-video-game-addiction-are-leading-to-masculinity-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Psychologist: Porn and Video Game Addiction Are Leading To 'Masculinity Crisis'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-4qSk14pHFc/psychologist-porn-and-video-game-addiction-are-leading-to-masculinity-crisis</link>
+<description>HughPickens.com writes: Philip Zimbardo is a prominent psychologist from Stanford, most notable for leading the notorious Stanford prison experiment. He has published new research findings based on the lives of 20,000 young men, and his conclusion is stark: there is a developing "masculinity crisis" caused by addiction to video games and pornography. "Our focus is on young men who play video games to excess, and do it in social isolation &amp;mdash; they are alone in their room," says Zimbardo. "It begins to change brain function. It begins to change the reward center of the brain, and produces a kind of excitement and addiction. What I'm saying is &amp;mdash; boys' brains are becoming digitally rewired." As an example, Zimbardo uses this quote from one young man: "When I'm in class, I'll wish I was playing World of Warcraft. When I'm with a girl, I'll wish I was watching pornography, because I'll never get rejected." Zimbardo doesn't think there's a specific time threshold at which playing video games goes from being acceptable to excessive. He says it varies by individual, and is more based on a "psychological change in mindset." To fight the problem, he suggest families need to track how much time is being spent on video games compared to other activities. "He also called for better sex education in schools &amp;mdash; which should focus not only on biology and safety, but also on emotions, physical contact and romantic relationships."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Psychologist%3A+Porn+and+Video+Game+Addiction+Are+Leading+To+'Masculinity+Crisis'%3A+http%3A%2F%2Fbit.ly%2F1RvathL"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F05%2F11%2F1414213%2Fpsychologist-porn-and-video-game-addiction-are-leading-to-masculinity-crisis%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/05/11/1414213/psychologist-porn-and-video-game-addiction-are-leading-to-masculinity-crisis?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/05/11/1414213/psychologist-porn-and-video-game-addiction-are-leading-to-masculinity-crisis?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7399865&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-4qSk14pHFc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-11T14:41:00+00:00</dc:date>
+<dc:subject>games</dc:subject>
+<slash:department>suggests-going-outside-and-chopping-some-wood</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>666</slash:comments>
+<slash:hit_parade>666,656,397,325,91,58,36</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/05/11/1414213/psychologist-porn-and-video-game-addiction-are-leading-to-masculinity-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/05/11/1358217/breaking-bad-crypto-ransomware-targets-australian-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'Breaking Bad' Crypto Ransomware Targets Australian Users</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LkL8I3ZyqqQ/breaking-bad-crypto-ransomware-targets-australian-users</link>
+<description>An anonymous reader writes: A new strain of the Trojan.Cryptolocker.S targeting Australia is using the branding of popular TV crime drama 'Breaking Bad' to theme its extortion demands. After encrypting all the files on the victim's computer, the ransomware presents a message that uses a logo and character quotes from the show, in addition to a YouTube video from the game Grand Theft Auto V, thought to be a tribute to Breaking Bad.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='Breaking+Bad'+Crypto+Ransomware+Targets+Australian+Users%3A+http%3A%2F%2Fbit.ly%2F1cptqBM"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F05%2F11%2F1358217%2Fbreaking-bad-crypto-ransomware-targets-australian-users%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/05/11/1358217/breaking-bad-crypto-ransomware-targets-australian-users?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/05/11/1358217/breaking-bad-crypto-ransomware-targets-australian-users?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7399809&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/LkL8I3ZyqqQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-11T13:59:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>i-am-the-one-who-hacks</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>28</slash:comments>
+<slash:hit_parade>28,28,12,9,5,3,0</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/05/11/1358217/breaking-bad-crypto-ransomware-targets-australian-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/11/1310255/self-driving-cars-in-california-4-out-of-48-have-accidents-none-their-fault?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Self-Driving Cars In California: 4 Out of 48 Have Accidents, None Their Fault</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ZJ1mzFj8Ch8/self-driving-cars-in-california-4-out-of-48-have-accidents-none-their-fault</link>
+<description>An anonymous reader writes: The Associated Press reports that 48 self-driving cars have been navigating the roads of California since the state began issuing permits last year. Of those, only four have been in accidents, and none of the accidents were the fault of the autonomous driving technology. Seven different companies have tested autonomous cars on California's roads, but Google, which is responsible for almost half of them, was involved in three of the four accidents &amp;mdash; the other one happened to a car from Delphi Automotive. All four of the accidents happened at speeds of under 10 mph, and human drivers were in control during two of them. The Delphi accident happened when another car broadsided it while its human driver was waiting to make a left turn. 
+The AP pieced together its report from the DMV and people who saw the accident reports. But critics note that there aren't direct channels to find this information. Since one of the chief selling points of autonomous cars is their relative safety over cars piloted by humans, the lack of official transparency is troubling. "Google, which has 23 Lexus SUVs, would not discuss its three accidents in detail." Instead, the company affirmed its cars' accidents were "a handful of minor fender-benders, light damage, no injuries, so far caused by human error and inattention."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Self-Driving+Cars+In+California%3A+4+Out+of+48+Have+Accidents%2C+None+Their+Fault%3A+http%3A%2F%2Fbit.ly%2F1cItT2I"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F11%2F1310255%2Fself-driving-cars-in-california-4-out-of-48-have-accidents-none-their-fault%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/11/1310255/self-driving-cars-in-california-4-out-of-48-have-accidents-none-their-fault?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/11/1310255/self-driving-cars-in-california-4-out-of-48-have-accidents-none-their-fault?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7399659&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ZJ1mzFj8Ch8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-11T13:15:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>no-mister-bond,-i-expect-you-to-frown-and-examine-your-fender-for-dents</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>337</slash:comments>
+<slash:hit_parade>337,332,252,221,51,22,13</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/11/1310255/self-driving-cars-in-california-4-out-of-48-have-accidents-none-their-fault?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
