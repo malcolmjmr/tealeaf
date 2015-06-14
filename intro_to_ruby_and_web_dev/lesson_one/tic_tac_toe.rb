@@ -6,6 +6,7 @@ def welcome_user
 end 
 
 def display_board(b)
+  system 'clear'
   puts " #{b[1]} | #{b[2]} | #{b[3]} "
   puts "-----------"
   puts " #{b[4]} | #{b[5]} | #{b[6]} "
@@ -14,9 +15,9 @@ def display_board(b)
 end
 
 def display_winner(b)
-  if b[:winner] = 'X'
+  if b[:winner] == 'X'
     puts 'You win!'
-  elsif b[:winner] = 'O'
+  elsif b[:winner] == 'O'
     puts 'You lose'
   else 
     puts 'There was a tie.'
@@ -32,7 +33,7 @@ def initialize_board
     [4,5,6],
     [7,8,9],
     [1,5,9],
-    [7,5,9],
+    [7,5,3],
     [1,4,7],
     [2,5,8],
     [3,6,9]
@@ -55,17 +56,15 @@ end
 
 def there_is_winner(b)
   b[:winning_lines].each do |line|
-    puts get_overlap(b[:o_pos], line)
     if get_overlap(b[:x_pos], line).length == 3
       b[:winner] = 'X'
       return true
     elsif get_overlap(b[:o_pos], line).length == 3
       b[:winner] = 'O'
       return true
-    else
-      return false
     end
   end
+  false 
 end
 
 def game_ended(b)
@@ -116,24 +115,21 @@ def get_comp_move(b)
   possible_moves.each {|move| return add_move(b, move, 'O') if move.class == Fixnum}
 end
 
-
 def get_overlap(arr1, arr2)
   concat = (arr1 + arr2).flatten
   overlap = concat.select{|e| concat.count(e) > 1}.uniq
 end
-
-
 
 welcome_user
 board = initialize_board
 display_board(board)
 loop do
   get_user_move(board) 
-  break if there_is_winner(board) || game_ended(board)
   display_board(board)
+  break if there_is_winner(board) || game_ended(board)
   get_comp_move(board)
-  break if there_is_winner(board) || game_ended(board)
   display_board(board)
+  break if there_is_winner(board) || game_ended(board)
 end
 display_winner(board)
 
